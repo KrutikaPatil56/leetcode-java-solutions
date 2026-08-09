@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
