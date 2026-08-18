@@ -13,13 +13,10 @@ class Solution {
                 l++;
                 r--;
             }else{
-                break ;
+                return false;
             }
         }
-        if(l>=r){
-            return true;
-        }else{
-            return false;
-        }
+        
+        return true;
     }
 }
