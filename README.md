@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
