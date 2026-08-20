@@ -18,18 +18,9 @@ class Solution {
             }
         } 
 
-        int[] result = new int[nums.length];
-
-        int k = 0;
-
-        for (int i = 0; i <= i1; i++) {
-            result[k++] = arr1[i];
+        for(int i = 0; i <=i2; i++){
+            arr1[++ i1] = arr2[i];
         }
-
-        for (int i = 0; i <= i2; i++) {
-            result[k++] = arr2[i];
-        }
-
-        return result;
+        return arr1;
     }
 }
