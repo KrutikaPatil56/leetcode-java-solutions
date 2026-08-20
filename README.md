@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
