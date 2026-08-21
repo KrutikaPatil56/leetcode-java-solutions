@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
