@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
