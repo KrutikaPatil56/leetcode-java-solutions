@@ -93,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
