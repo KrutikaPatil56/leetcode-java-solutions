@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
+| [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
