@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
