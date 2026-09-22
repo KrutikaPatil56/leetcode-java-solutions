@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0344-reverse-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
