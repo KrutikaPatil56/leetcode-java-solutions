@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0136-single-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
