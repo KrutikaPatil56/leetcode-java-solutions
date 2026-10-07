@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
