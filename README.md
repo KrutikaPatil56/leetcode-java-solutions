@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
