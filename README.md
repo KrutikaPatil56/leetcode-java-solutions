@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0342-power-of-four) |
 | [1510-stone-game-iv](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3870-count-commas-in-range) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
