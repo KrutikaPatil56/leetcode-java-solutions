@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0342-power-of-four) |
 | [1510-stone-game-iv](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0196-delete-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
