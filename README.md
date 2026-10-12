@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0561-array-partition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
