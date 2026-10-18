@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
