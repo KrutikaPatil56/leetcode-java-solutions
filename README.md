@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
