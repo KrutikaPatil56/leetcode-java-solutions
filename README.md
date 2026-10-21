@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0058-length-of-last-word) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2404-most-frequent-even-element) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
