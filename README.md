@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0392-is-subsequence) |
 | [1510-stone-game-iv](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
