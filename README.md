@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0415-add-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
