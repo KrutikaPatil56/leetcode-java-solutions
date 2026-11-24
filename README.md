@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/1510-stone-game-iv) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3870-count-commas-in-range) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -229,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrutikaPatil56/leetcode-java-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |
 | ------- |
